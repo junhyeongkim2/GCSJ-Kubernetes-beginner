@@ -2,4 +2,4 @@
 구글 클라우드 스터디 잼 - 김준형
 
 
-![Screen Shot 2022-07-19 at 2.54.35 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7fe79e47-8119-4620-8435-da11c30a0b49/Screen_Shot_2022-07-19_at_2.54.35_AM.png)
+![Screen Shot 2022-07-19 at 2 54 35 AM](https://user-images.githubusercontent.com/52617204/179576921-76749054-afb5-4080-9d21-1e7749a58ddb.png)
